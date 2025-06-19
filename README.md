@@ -1,1 +1,1 @@
-# wapsite-loading-bar
+This project features a simple loading bar built with HTML and CSS. The loading bar visually indicates progress by filling up smoothly using pure CSS animations. It requires no JavaScript and can be easily integrated into any website or application. Built to practice CSS animations and create a user-friendly loading indicator. Feedback is welcome.
